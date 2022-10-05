@@ -9,23 +9,6 @@
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 
-div,
-h1,
-h2,
-h3,
-h4,
-h5,
-img,
-li,
-ul,
-section,
-content,
-p,
-a {
-  border-color: red;
-  border-style: solid;
-}
-
 .header,
 .description,
 .digits,
