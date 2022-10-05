@@ -211,9 +211,6 @@
 .section-title__theme_dark {
   margin-top: 80px;
 }
-.table__cell_theme_dark {
-  width: 200px;
-}
 .table__theme_dark {
   margin-bottom: 80px;
   z-index: 1;
