@@ -9,23 +9,6 @@
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 
-div,
-h1,
-h2,
-h3,
-h4,
-h5,
-img,
-li,
-ul,
-section,
-content,
-p,
-a {
-  border-color: red;
-  border-style: solid;
-}
-
 .header,
 .description,
 .digits,
@@ -262,7 +245,6 @@ a {
   color: #2f80ed;
   text-decoration: none;
   z-index: 1;
-  position: absolute;
 }
 
 .kaufman {
@@ -351,7 +333,7 @@ a {
   display: flex;
   flex-direction: column;
   margin-top: 20px;
-  position: relative
+  position: relative;
 }
 
 .column-links {
