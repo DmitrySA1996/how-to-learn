@@ -20,9 +20,14 @@
   margin-top: 80px;
 }
 .logo {
-  position: absolute;
   left: 64px;
   top: 30px;
+  width: 228px;
+  height: 32px;
+}
+.logo_place_header { 
+  margin-left: 64px;
+  margin-top: 30px;
 }
 .tittle {
   width: 730px;
@@ -220,7 +225,7 @@
   background-color: #1f1f1f;
   min-height: 350px;
 }
-.columns {
+.footer__columns {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -236,22 +241,18 @@
   height: 30px;
   font-size: 18px;
   font-weight: 600;
+  margin:0;
 }
-.column__content__copyright {
+.footer__column__content__copyright {
   flex-basis: 711px;
   display: flex;
   justify-content: space-between;
-}
-.column__content__info {
-  display: flex;
   flex-direction: column;
-  margin-bottom: 16px;
+}
+.footer__column__content__info {
 }
 .footer__column-link {
-  display: flex;
-  flex-direction: column;
   margin-top: 20px;
-  position: relative;
 }
 .footer__column-links {
   color: white;
@@ -269,17 +270,16 @@
   width: 16px;
   margin-right: 10px;
 }
-.logo__place__footer {
+.logo_place_footer {
   height: 32px;
   width: 228px;
   left: 64px;
   top: 30px;
 }
-.author {
+.footer_author {
   font-size: 18px;
   font-weight: normal;
   color: white;
-  justify-content: flex-end;
   margin-top: 18px;
   margin-bottom: 18px;
 }
