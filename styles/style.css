@@ -220,7 +220,7 @@
   padding-bottom: 40px;
   background-color: #1f1f1f;
   min-height: 350px;
-  box-sizing: padding-box;
+  box-sizing: border-box;
 }
 .footer__columns {
   display: flex;
