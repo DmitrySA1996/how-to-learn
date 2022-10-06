@@ -5,10 +5,6 @@
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 
-* {
-  border: 1px solid red;
-}
-
 .header {
   height: 100vh;
   min-height: 600px;
@@ -123,7 +119,6 @@
 }
 
 .section-title {
-  margin: 0;
   width: 60%;
   margin: auto;
   line-height: 1.15;
