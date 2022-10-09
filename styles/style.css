@@ -111,10 +111,12 @@
 }
 
 .two-columns__paragraph {
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-bottom: 30px;
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
-  margin-top: 0;
 }
 
 .two-columns__paragraph:last-child {
@@ -287,7 +289,7 @@
 
 .footer__column-heading {
   color: white;
-  height: 30px;
+  line-height: 30px;
   font-size: 18px;
   font-weight: 600;
   margin: 0;
@@ -307,7 +309,7 @@
   margin-bottom: auto;
   display: flex;
   align-items: center;
-  height: 25px;
+  line-height: 30px;
   font-size: 18px;
   font-weight: normal;
 }
@@ -318,7 +320,7 @@
   margin-bottom: 16px;
 }
 
-.footer__social_link {
+.footer__social-icon {
   height: 16px;
   width: 16px;
   margin-right: 10px;
