@@ -1,0 +1,7 @@
+.feyman__link {
+    position: absolute;
+    right: 40px;
+    color: #2f80ed;
+    text-decoration: none;
+    z-index: 1;
+  }

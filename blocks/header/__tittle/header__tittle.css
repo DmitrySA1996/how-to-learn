@@ -1,4 +1,3 @@
-
 .header__tittle {
     margin: 0;
     width: 730px;
@@ -6,7 +5,7 @@
     left: 64px;
     align-self: center;
     z-index: 2;
-    font-size: 102px;
+    font-size: 102px;   
     font-weight: 600;
     line-height: 96px;
   }
