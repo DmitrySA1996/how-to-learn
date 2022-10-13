@@ -1,9 +1,5 @@
 .description {
-    margin: 0;
-    margin-bottom: 100px;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 0;
-    padding-top: 100px;
+    margin: 0 auto 0;
+    padding: 0 100px 0 0;
     width: 80%;
   }
