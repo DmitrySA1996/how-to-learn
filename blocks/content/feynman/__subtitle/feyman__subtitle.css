@@ -1,12 +1,12 @@
 .feyman__subtitle {
-    display: flex;
-    justify-content: space-between;
-    width: 370px;
-    margin: auto;
-    padding-left: 0;
-    margin-top: 70px;
-    height: 51px;
-    font-size: 36px;
-    font-weight: normal;
-    text-align: center;
-  }
+  display: flex;
+  justify-content: space-between;
+  width: 370px;
+  margin: auto;
+  padding-left: 0;
+  margin-top: 70px;
+  height: 51px;
+  font-size: 36px;
+  font-weight: normal;
+  text-align: center;
+}
