@@ -1,9 +1,0 @@
-@import url(../vendor/normalize.css);
-@import url(../blocks/header/header.css);
-@import url(../blocks/header/logo/logo.css);
-@import url(../blocks/header/logo/_place/logo_place_header.css);
-@import url(../blocks/header/__tittle/header__tittle.css);
-@import url(../blocks/header/__subtittle/header__subtittle.css);
-@import url(../blocks/header/__link/header__link.css);
-@import url(../blocks/header/__main-illustration/header__main-illustration.css);
-@import url(../blocks/header/__square-pic/header__square-pic.css);
