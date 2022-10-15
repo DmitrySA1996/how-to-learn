@@ -137,7 +137,3 @@
 @import url(../blocks/footer/__author/footer__author.css);
 @import url(../blocks/footer/__social-icon/footer__social-icon.css);
 /* ------------------------------------------------------------------------------------------*/
-
-* {
-    outline: 1px solid red;
-}
